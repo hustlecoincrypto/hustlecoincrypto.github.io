@@ -1,13 +1,7 @@
 {
   "accountAssociation": {
-    "header": "eyJmaWQiOjAsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIn0",
+    "header": "eyJmaWQiOjIxOTI4NTYsInR5cGUiOiJhdXRoIiwia2V5IjoiMHhhRDhCM2E0NjQwYTBiMzUwMzU1RDJmMjU4MTk4YjMwRTM5OTY5RjJjIn0",
     "payload": "eyJkb21haW4iOiJodXN0bGVjb2luY3J5cHRvLmdpdGh1Yi5pbyJ9",
-    "signature": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
-  },
-  "frame": {
-    "version": "1",
-    "name": "HustleCoin",
-    "iconUrl": "https://hustlecoincrypto.github.io/icon.png",
-    "homeUrl": "https://hustlecoincrypto.github.io"
+    "signature": "7TDaLHbd6aD6cYHQJJBlw1M26yj6Va3RBddRleUxVGVxv58cvODTUL1idx8ZVUMpAErk5vDKrha/VZUyqiYL6xw="
   }
 }
