@@ -1,0 +1,13 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjAsInR5cGUiOiJjdXN0b2R5Iiwia2V5IjoiMHgwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwIn0",
+    "payload": "eyJkb21haW4iOiJodXN0bGVjb2luY3J5cHRvLmdpdGh1Yi5pbyJ9",
+    "signature": "0x00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  "frame": {
+    "version": "1",
+    "name": "HustleCoin",
+    "iconUrl": "https://hustlecoincrypto.github.io/icon.png",
+    "homeUrl": "https://hustlecoincrypto.github.io"
+  }
+}
